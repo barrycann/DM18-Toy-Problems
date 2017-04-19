@@ -54,6 +54,7 @@ Beginner Toy Problem: Find the nth number https://repl.it/G8dd/0  <br />
 Solution:https://repl.it/G8dc/0
 
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
+CodeWars URL: https://www.codewars.com/kata/string-incrementer<br/>
 Solution: https://repl.it/GQ7H/1
 
 **Tuesday:** <br />
@@ -74,7 +75,8 @@ Solution:
 Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1 <br />
 Solution: https://repl.it/GQcu/1
 
-Advanced Toy Problem: <br />
+Advanced Toy Problem: ROT13 https://repl.it/HOY5<br />
+CodeWars URL: https://www.codewars.com/kata/530e15517bc88ac656000716<br/>
 Solution: 
 
 ---
@@ -85,6 +87,7 @@ Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0 <br />
 Solution: https://repl.it/GQcC/1
 
 Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br />
+CodeWars URL: https://www.codewars.com/kata/520b9d2ad5c005041100000f <br />
 Solution: https://repl.it/GknA/1
 
 **Tuesday:** <br />
@@ -92,6 +95,7 @@ Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0 <br />
 Solution: https://repl.it/GQbf/2
 
 Advanced Toy Problem: <br />
+CodeWars URL: <br/>
 Solution:
 
 **Wednesday:** <br />
@@ -99,6 +103,7 @@ Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0 <br />
 Solution: https://repl.it/GQal/1
 
 Advanced Toy Problem: <br />
+CodeWars URL: <br/>
 Solution:
 
 **Thursday:** <br />
@@ -106,6 +111,7 @@ Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
+CodeWars URL: <br/>
 Solution:
 
 ---
@@ -115,29 +121,33 @@ Week 4
 Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem: <br />
-Solution:
+Advanced Toy Problem: RPG Dice Roller https://repl.it/HOTI/1<br />
+CodeWars URL: https://www.codewars.com/kata/rpg-dice-roller<br />
+Solution: https://repl.it/
 
 **Tuesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem: <br />
-Solution:
+Advanced Toy Problem: Faulty Odometer https://repl.it/HOR7/1<br />
+CodeWars URL: https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer<br/>
+Solution: https://repl.it/
 
 **Wednesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem: <br />
-Solution:
+Advanced Toy Problem: Caesar Cipher Helper https://repl.it/HOTZ<br />
+CodeWars URL: https://www.codewars.com/kata/caesar-cipher-helper<br/>
+Solution: https://repl.it/
 
 **Thursday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
-Advanced Toy Problem: <br />
-Solution:
+Advanced Toy Problem: Double Cola https://repl.it/HOU1/1<br />
+CodeWars URL: https://www.codewars.com/kata/double-cola<br/>
+Solution: https://repl.it/
 
 ---
 Week 5
