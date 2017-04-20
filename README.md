@@ -77,7 +77,7 @@ Solution: https://repl.it/GQcu/1
 
 Advanced Toy Problem: ROT13 https://repl.it/HOY5<br />
 CodeWars URL: https://www.codewars.com/kata/530e15517bc88ac656000716<br/>
-Solution: 
+Solution: https://repl.it/HSLZ
 
 ---
 Week 3
